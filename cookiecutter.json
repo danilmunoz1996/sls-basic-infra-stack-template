@@ -1,0 +1,5 @@
+{
+    "project_name": "user-stack-template",
+    "model": "user",
+    "model_class_name": "User"
+}
